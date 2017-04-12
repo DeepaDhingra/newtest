@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="app3Table" max_length="40" name="x_snc_testapp3_app3table" type="collection">
+        <element label="col1" max_length="40" name="col1" type="string"/>
+        <element label="col2" max_length="40" name="col2" type="string"/>
+    </element>
+</database>
